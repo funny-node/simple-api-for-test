@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "server": "nodemon api",
+    "start": "http-server -o"
+  },
+  "dependencies": {
+    "@koa/cors": "^3.3.0",
+    "koa": "^2.13.4"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "nodemon": "^2.0.16"
+  }
+}
