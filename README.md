@@ -24,3 +24,12 @@ npm start
 cd webpack-fe
 npm run dev
 ```
+
+---
+
+如果需要调试 React 项目：
+
+```bash
+cd cra
+npm start
+```
